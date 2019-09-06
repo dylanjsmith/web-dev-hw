@@ -1,0 +1,8 @@
+How is the web different from the internet? 
+The internet connects participants through a distributed packet-switch network while the web connects information like hypertext documents via the internet. The web makes material widely acceptable through the internet.
+Briefly describe how the internet works?
+Through independently operated networks, the system is fully distributed and there is no central control for how packets are routed
+What is a directory, and what is its relationship to files?
+A directory is a hierarchical structure that resembles a tree that contains a single root that that branches off into related groups of content. The files act as the branches of this metaphorical tree.
+Why is using a VCS beneficial?
+Using a version control system allows a user to see the progress they have made in the development of a project. VCS allows a developer to track changes they make on a project, to revert back to any desired changes, and also share and collaborate on a project with other parties.
