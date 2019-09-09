@@ -1,0 +1,11 @@
+Dylan Smith
+
+1. Data travels on the internet in packets of information that gets managed by TCP and Routers to create a smooth and cheap path for the packets to travel.
+
+2. A computer will use DNS to find a desired domain name and in the process of doing so, will also get the associated IP address, which will then be used by the computer to get to the desired landing page.
+
+3. Cookies are what websites use to remember who a user is. It is data that acts as an identification number to identify a particular user. 
+
+4. 1. protocol
+   2. domain name
+   3. path
