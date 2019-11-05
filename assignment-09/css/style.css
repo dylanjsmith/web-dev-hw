@@ -1,0 +1,35 @@
+body {
+  background-color: orange;
+}
+h1 {
+  color: violet;
+}
+
+h2 {
+  color: violet;
+}
+.square {
+  width: 50%;
+}
+
+#violet {
+   background-color: #f1f1f1;
+}
+
+#lime {
+  background-color: #7DE522;
+}
+
+#goldenrod {
+  background-color: #FBE608;
+}
+
+/* I'm sorry about this page being terrible.*/
+
+#turquoise {
+  background-color: #3AB1FC;
+  opacity: 0.5;
+  width: 50%;
+  height: 200px;
+  position: absolute;
+}
