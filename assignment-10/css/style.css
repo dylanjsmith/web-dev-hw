@@ -1,0 +1,31 @@
+/* Page-Wide */
+body {
+  background-color: rgb(255, 105, 180);
+  color: white;
+  padding: 5px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* Paragraph Content */
+.text {
+  background-color: rgb(255, 218, 185);
+  color: rgb(255, 105, 180);
+  padding: 5px;
+
+  line-height: 2em;
+}
+p:first-of-type:first-letter {
+  font-family: 'Rye', sans-serif, cursive;
+  font-size: 4em;
+  font-weight: 600;
+  color: rgb(186, 85, 211)
+}
+
+a {
+  background-color: rgb(230, 230, 250);
+  padding: 5px;
+}
+
+a:hover{
+  font-style: italic;
+}
