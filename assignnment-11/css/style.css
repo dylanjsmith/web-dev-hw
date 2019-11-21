@@ -1,0 +1,60 @@
+.body {
+  margin: 0;
+  font-family: 'Verdana', sans-serif;
+  font-size: 1em;
+}
+
+.navigation{
+background-color: #FF69B4;
+width: 300px;
+height: 10%;
+position: fixed;
+top: 0;
+left: 0;
+}
+
+.green-square {
+  width: 20%;
+  height: 3em;
+  margin: 0.50em;
+  background-color: plum;
+}
+
+.main {
+  font-size: 1em;
+  text-align: center;
+  margin: 2em;
+}
+.h2:hover {
+   color: #1CCDCA;
+   font-style: italic;
+}
+.header {
+    background-color: plum;
+    font-family: Verdana;
+    font-size: 12pt;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    padding: 0.20em;
+}
+.menu-item {
+    margin: auto;
+    padding: 0.35em;
+    min-width: 80px;
+    font-size: 10pt;
+    background-color: pink;
+    line-height: 2.1em;
+}
+.container-1 {
+   background-color: ##FFFFFF;
+   max-width: 1000px;
+   padding: 2em;
+   margin: auto;
+   border-width: 2em;
+   border-style: outset;
+   border-color: #C71585;
+}
+.display-inline-block {
+    display: inline-block;
+}
