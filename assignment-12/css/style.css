@@ -1,0 +1,59 @@
+
+
+body {
+  background-color: red;
+}
+h1, span {
+  margin: 0;
+  font-family: 'Monotype Corsiva', Trebuchet;
+  color: black;
+  text-align: center;
+}
+h3 {
+  font-family: 'Monotype Corsiva', Trebuchet, serif;
+  font-size: 1.5em;
+}
+q {
+  font-family: 'Monotype Corsiva', Trebuchet, serif;
+  font-size: 1.5em;
+}
+a {
+  font-family: 'Monotype Corsiva', Trebuchet, serif;
+}
+
+/* layout area: */
+.main-container {
+  width: 70%
+  max-width: 600px;
+  margin: 2em auto;
+  padding: 2em;
+
+  background-color: #FFF;
+}
+header {
+
+}
+main {
+  text-align: justify;
+  margin: 2em 0;
+}
+footer {
+  text-align: center;
+  font-size: .5em;
+  margin-top: 1.75em;
+}
+
+/* site information: */
+.site-heading {
+  width: 50%;
+  margin: 3em auto;
+  padding: 15px;
+  position: relative;
+  z-index: 1;
+  text-align: center;
+}
+#site-title {
+  margin: .75em;
+  line-height: 1em;
+  font-size: 4em
+}
